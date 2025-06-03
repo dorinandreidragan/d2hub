@@ -53,4 +53,4 @@ jobs:
           external_repository: dorinandreidragan/d2hub-qa
           publish_branch: main
           publish_dir: vitepress-dist
-          personal_token: ${{ secrets.D2HUB_QA_GITHUB_TOKEN }}
+          personal_token: ${{ secrets.D2HUB_GITHUB_TOKEN }}
