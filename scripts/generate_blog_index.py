@@ -35,7 +35,7 @@ def main():
         fm = extract_frontmatter(md_path)
         if fm:
             # Exclude drafts in production, include in qa
-            is_draft = fm.get('draft', False)
+            is_draft = str(fm.get('status', '')).lower() == 'draft'
             if args.env == 'production' and is_draft:
                 continue
             date_val = fm.get('date')

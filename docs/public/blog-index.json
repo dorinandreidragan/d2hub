@@ -16,26 +16,6 @@
     "status": null
   },
   {
-    "title": "how i switched from dev.to to my own documentation site",
-    "date": "2025-06-02",
-    "category": [
-      "blogging"
-    ],
-    "tag": [
-      "documentation",
-      "vitepress",
-      "vue",
-      "vibe coding",
-      "vscode",
-      "githubcopilot"
-    ],
-    "series": null,
-    "order": null,
-    "summary": "How I left dev.to and built my own raw, fast, and fully custom docs site with vitepress, vue, and my own rules.",
-    "path": "/articles/how-i-switched-from-devto-to-own-docs-site",
-    "status": "draft"
-  },
-  {
     "title": "ensuring high availability with two-server setup using keepalived",
     "date": "2025-01-23",
     "category": [
@@ -69,23 +49,6 @@
     "summary": "Connect to a remote web server using Microsoft Dev Tunnels for secure development access.",
     "path": "/articles/tunnel-to-webserver",
     "status": null
-  },
-  {
-    "title": "host documentation on github pages with vuepress",
-    "date": "2024-02-04",
-    "category": [
-      "documentation"
-    ],
-    "tag": [
-      "documentation",
-      "vuepress",
-      "github-pages"
-    ],
-    "series": null,
-    "order": 4,
-    "summary": "Host your documentation on GitHub Pages using VuePress for a simple, effective workflow.",
-    "path": "/articles/vuepress-on-ghpages",
-    "status": "draft"
   },
   {
     "title": "vscode + mcp: chat with your api using github copilot",
