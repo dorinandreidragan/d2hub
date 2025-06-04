@@ -16,6 +16,26 @@
     "status": null
   },
   {
+    "title": "how i switched from dev.to to my own documentation site",
+    "date": "2025-06-02",
+    "category": [
+      "blogging"
+    ],
+    "tag": [
+      "documentation",
+      "vitepress",
+      "vue",
+      "vibe coding",
+      "vscode",
+      "githubcopilot"
+    ],
+    "series": null,
+    "order": null,
+    "summary": "How I left dev.to and built my own raw, fast, and fully custom docs site with vitepress, vue, and my own rules.",
+    "path": "/articles/how-i-switched-from-devto-to-own-docs-site",
+    "status": null
+  },
+  {
     "title": "ensuring high availability with two-server setup using keepalived",
     "date": "2025-01-23",
     "category": [

@@ -11,7 +11,6 @@ tag:
   - vscode
   - githubcopilot
 summary: "How I left dev.to and built my own raw, fast, and fully custom docs site with vitepress, vue, and my own rules."
-status: draft
 ---
 
 <ArticleStatusBadge />
@@ -227,7 +226,7 @@ jobs:
 
 ## why not?
 
-there is no reason not to have your own docs site. You own it. You control it. You decide what it looks like, what it tracks, what it shows. Want to see the code? [github repo](https://github.com/dorinandreidragan/dorinandreidragan.github.io).
+there is no reason not to have your own docs site. You own it. You control it. You decide what it looks like, what it tracks, what it shows. Want to see the code? [github repo](https://github.com/dorinandreidragan/d2hub).
 
 [vitepress]: https://vitepress.dev/
 [deployment to github pages]: https://vitepress.dev/guide/deploy#github-pages
