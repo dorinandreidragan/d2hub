@@ -53,7 +53,6 @@ defineConfig({
     },
     nav: [
       { text: 'home', link: '/' },
-      // { text: 'articles', link: '/articles' },
       { text: 'about', link: '/about' }
     ],
     socialLinks: [

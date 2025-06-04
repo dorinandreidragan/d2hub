@@ -10,9 +10,10 @@ tag:
   - vibe coding
   - vscode
   - githubcopilot
-summary: "How I left dev.to and built my own raw, fast, and fully custom docs site with vitepress, vue, and my own rules."
-status: draft
+summary: "How I switched from dev.to and built my own raw, fast, and fully custom docs site with vitepress, vue, and my own rules."
 ---
+
+<img class="cover-image" src="../.assets/devto-to-own-docs/cover.svg" />
 
 <ArticleStatusBadge />
 
@@ -22,7 +23,7 @@ status: draft
 
 So I built my own docs site. It’s not for everyone. But it’s exactly what I need: clean, fast, and under my control. Here’s how I did it, and why you might want to do the same.
 
-## tech stack, no apologies
+## tech stack
 
 No bloat, no distractions. Just the essentials:
 
@@ -84,9 +85,15 @@ Here’s how `BlogIndex` fetches and displays articles:
 </template>
 ```
 
+And here is how it looks:
+
+![blog index]
+
 #### post card
 
 Sharp and neat `PostCard` component:
+
+![post card]
 
 ```vue
 <!-- docs/.vitepress/components/PostCard.vue (excerpt) -->
@@ -227,7 +234,7 @@ jobs:
 
 ## why not?
 
-there is no reason not to have your own docs site. You own it. You control it. You decide what it looks like, what it tracks, what it shows. Want to see the code? [github repo](https://github.com/dorinandreidragan/dorinandreidragan.github.io).
+there is no reason not to have your own docs site. You own it. You control it. You decide what it looks like, what it tracks, what it shows. Want to see the code? [github repo](https://github.com/dorinandreidragan/d2hub).
 
 [vitepress]: https://vitepress.dev/
 [deployment to github pages]: https://vitepress.dev/guide/deploy#github-pages
@@ -238,3 +245,5 @@ there is no reason not to have your own docs site. You own it. You control it. Y
 [home]: https://dorinandreidragan.github.io/
 [about]: https://dorinandreidragan.github.io/about.html
 [dev.to]: https://dev.to
+[post card]: ../.assets/devto-to-own-docs/post-card.png
+[blog index]: ../.assets/devto-to-own-docs/blog-index.png
