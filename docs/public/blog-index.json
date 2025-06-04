@@ -85,7 +85,7 @@
     "order": 4,
     "summary": "Host your documentation on GitHub Pages using VuePress for a simple, effective workflow.",
     "path": "/articles/vuepress-on-ghpages",
-    "status": null
+    "status": "draft"
   },
   {
     "title": "vscode + mcp: chat with your api using github copilot",

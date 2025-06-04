@@ -9,6 +9,7 @@ tag:
   - vuepress
   - github-pages
 summary: "Host your documentation on GitHub Pages using VuePress for a simple, effective workflow."
+status: draft
 ---
 
 <ArticleStatusBadge />
