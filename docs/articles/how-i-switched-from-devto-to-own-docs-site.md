@@ -14,7 +14,7 @@ summary: "How I switched from dev.to and built my own raw, fast, and fully custo
 status: draft
 ---
 
-![cover]
+<img class="cover-image" src="../.assets/devto-to-own-docs/cover.svg" />
 
 <ArticleStatusBadge />
 
@@ -248,4 +248,3 @@ there is no reason not to have your own docs site. You own it. You control it. Y
 [dev.to]: https://dev.to
 [post card]: ../.assets/devto-to-own-docs/post-card.png
 [blog index]: ../.assets/devto-to-own-docs/blog-index.png
-[cover]: ../.assets/devto-to-own-docs/cover.svg
