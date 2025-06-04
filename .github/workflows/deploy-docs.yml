@@ -51,6 +51,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           external_repository: dorinandreidragan/dorinandreidragan.github.io
-          publish_branch: d2hub-prod
+          publish_branch: main
           publish_dir: vitepress-dist
           personal_token: ${{ secrets.D2HUB_GITHUB_TOKEN }}
