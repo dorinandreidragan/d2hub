@@ -11,7 +11,6 @@ tag:
   - vscode
   - githubcopilot
 summary: "How I switched from dev.to and built my own raw, fast, and fully custom docs site with vitepress, vue, and my own rules."
-status: draft
 ---
 
 <img class="cover-image" src="../.assets/devto-to-own-docs/cover.svg" />
