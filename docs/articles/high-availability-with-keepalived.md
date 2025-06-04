@@ -10,6 +10,8 @@ tag:
 summary: "Achieve high availability with a two-server setup using Keepalived and Vagrant."
 ---
 
+<ArticleStatusBadge />
+
 # 🔋⚡ ensuring high availability with two-server setup using Keepalived
 
 Ensuring high availability with limited resources can be challenging. I recently wanted to prove you can do it using [Keepalived] and just two servers 💪✨. To prove it, I used [Vagrant]. Here's a quick rundown of my journey! 🚀

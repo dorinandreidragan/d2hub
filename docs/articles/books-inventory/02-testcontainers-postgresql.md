@@ -15,6 +15,8 @@ tag:
 summary: "Upgrade your API tests by using PostgreSQL and Testcontainers for isolated, repeatable integration testing."
 ---
 
+<ArticleStatusBadge />
+
 <img class="cover-image" src="../../.assets/books-inventory/testcontainers-postgresql.png"/>
 
 # get ready for Testcontainers: Taking minimal web API testing to the next level

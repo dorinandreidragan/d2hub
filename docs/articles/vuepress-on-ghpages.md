@@ -11,6 +11,8 @@ tag:
 summary: "Host your documentation on GitHub Pages using VuePress for a simple, effective workflow."
 ---
 
+<ArticleStatusBadge />
+
 # host documentation on GitHub Pages with VuePress
 
 I use VuePress for the documentation site because is simple. For the VuePress site I will be using

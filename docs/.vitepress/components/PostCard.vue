@@ -4,7 +4,10 @@
       <a class="post-card__title-link" :href="link" tabindex="0">
         <h3 class="post-card__title">{{ title }}</h3>
       </a>
-      <span class="post-card__date">{{ date }}</span>
+      <div class="post-card__header-right">
+        <ArticleStatusBadge v-if="status" :status="status" />
+        <span class="post-card__date">{{ date }}</span>
+      </div>
     </div>
     <div v-if="series" class="post-card__series">
       series: {{ series }}<span v-if="episode">, episode {{ episode }}</span>
@@ -22,6 +25,7 @@
 </template>
 
 <script setup>
+import ArticleStatusBadge from './ArticleStatusBadge.vue';
 const props = defineProps({
   title: { type: String, required: true },
   date: { type: String, required: true },
@@ -29,7 +33,8 @@ const props = defineProps({
   link: { type: String, required: true },
   series: { type: [String, null], default: '' },
   episode: { type: [Number, String, null], default: null },
-  summary: { type: String, default: '' }
+  summary: { type: String, default: '' },
+  status: { type: String, default: null }
 });
 </script>
 
@@ -74,8 +79,13 @@ const props = defineProps({
 .post-card__header {
   display: flex;
   justify-content: space-between;
-  align-items: baseline;
+  align-items: center;
   margin-bottom: 0.7rem;
+}
+.post-card__header-right {
+  display: flex;
+  align-items: center;
+  gap: 0.7em;
 }
 .post-card__title {
   font-size: 1.25rem;
@@ -136,3 +146,6 @@ const props = defineProps({
   margin-top: 0.2rem;
 }
 </style>
+
+/* Badge styles are now in ArticleStatusBadge.vue */
+

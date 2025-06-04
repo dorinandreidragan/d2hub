@@ -10,6 +10,8 @@ tag:
 summary: "Learn how to resolve APT cache update errors caused by missing or incorrect GPG keys."
 ---
 
+<ArticleStatusBadge />
+
 # 🔑 Fixing APT Cache Update Errors: GPG Keys Made Easy!
 
 Updating the APT cache is essential for keeping your system in top shape. But it can sometimes feel like navigating a maze. Here’s how you can make sure your APT cache updates without a hitch, even when dealing with specific sources.

@@ -12,6 +12,8 @@ tag:
 summary: "Automate and simplify configuration file updates using Ansible’s lineinfile module."
 ---
 
+<ArticleStatusBadge />
+
 # simplify config updates with ansible's lineinfile
 
 Managing configuration files across servers can be tricky. Ansible's `lineinfile` module makes it easy to automate these changes while ensuring consistency and safety.

@@ -12,6 +12,8 @@ tag:
 summary: "Discover how to use Jupyter Notebooks in VSCode with Poetry-managed virtual environments."
 ---
 
+<ArticleStatusBadge />
+
 # 📓 how to use jupyter notebooks in vscode with poetry virtual environments 🚀
 
 If you're a developer using Jupyter Notebooks and Poetry, you might face an issue where VSCode doesn't automatically recognize the Poetry virtual environments. This guide will show you how to solve this problem by updating the VSCode user settings accordingly.

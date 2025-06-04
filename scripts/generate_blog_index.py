@@ -1,7 +1,9 @@
+
 import os
 import glob
 import yaml
 import json
+import argparse
 from pathlib import Path
 
 ARTICLES_DIR = Path(__file__).parent.parent / 'docs' / 'articles'
@@ -23,11 +25,19 @@ def extract_frontmatter(md_file):
 
 
 def main():
+    parser = argparse.ArgumentParser(description='Generate blog index JSON.')
+    parser.add_argument('--env', choices=['production', 'qa'], default='production', help='Environment: production or qa')
+    args = parser.parse_args()
+
     articles = []
     for md_path in glob.glob(str(ARTICLES_DIR / '**' / '*.md'), recursive=True):
         rel_path = os.path.relpath(md_path, ARTICLES_DIR.parent)
         fm = extract_frontmatter(md_path)
         if fm:
+            # Exclude drafts in production, include in qa
+            is_draft = fm.get('draft', False)
+            if args.env == 'production' and is_draft:
+                continue
             date_val = fm.get('date')
             if hasattr(date_val, 'isoformat'):
                 date_val = date_val.isoformat()
@@ -48,7 +58,8 @@ def main():
                 'series': series,
                 'order': fm.get('order'),
                 'summary': fm.get('summary'),
-                'path': '/' + rel_path.replace(os.sep, '/').replace('.md', '')
+                'path': '/' + rel_path.replace(os.sep, '/').replace('.md', ''),
+                'status': fm.get('status') if fm.get('status') else None
             })
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as out:
         json.dump(articles, out, indent=2, ensure_ascii=False)

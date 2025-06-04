@@ -14,6 +14,8 @@ tag:
 summary: "Integrate OpenTelemetry with ASP.NET minimal APIs to trace and analyze application behavior."
 ---
 
+<ArticleStatusBadge />
+
 <img class="cover-image" src="../../.assets/books-inventory/architecture-caching-telemetry.svg"/>
 
 # if you can’t observe it 🔭, you can’t operate it

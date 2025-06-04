@@ -12,7 +12,8 @@
     "series": null,
     "order": 1,
     "summary": "Master technical topics efficiently with a flexible, adaptive learning prompt.",
-    "path": "/articles/master-technical-topics-with-this-game-changing-prompt"
+    "path": "/articles/master-technical-topics-with-this-game-changing-prompt",
+    "status": null
   },
   {
     "title": "how i switched from dev.to to my own documentation site",
@@ -31,7 +32,8 @@
     "series": null,
     "order": null,
     "summary": "How I left dev.to and built my own raw, fast, and fully custom docs site with vitepress, vue, and my own rules.",
-    "path": "/articles/how-i-switched-from-devto-to-own-docs-site"
+    "path": "/articles/how-i-switched-from-devto-to-own-docs-site",
+    "status": "draft"
   },
   {
     "title": "ensuring high availability with two-server setup using keepalived",
@@ -46,7 +48,8 @@
     "series": null,
     "order": 1,
     "summary": "Achieve high availability with a two-server setup using Keepalived and Vagrant.",
-    "path": "/articles/high-availability-with-keepalived"
+    "path": "/articles/high-availability-with-keepalived",
+    "status": null
   },
   {
     "title": "remote tunnel to a web server",
@@ -64,7 +67,8 @@
     "series": null,
     "order": 2,
     "summary": "Connect to a remote web server using Microsoft Dev Tunnels for secure development access.",
-    "path": "/articles/tunnel-to-webserver"
+    "path": "/articles/tunnel-to-webserver",
+    "status": null
   },
   {
     "title": "host documentation on github pages with vuepress",
@@ -80,7 +84,8 @@
     "series": null,
     "order": 4,
     "summary": "Host your documentation on GitHub Pages using VuePress for a simple, effective workflow.",
-    "path": "/articles/vuepress-on-ghpages"
+    "path": "/articles/vuepress-on-ghpages",
+    "status": null
   },
   {
     "title": "vscode + mcp: chat with your api using github copilot",
@@ -97,7 +102,8 @@
     "series": null,
     "order": 1,
     "summary": "Learn how chat with your API using VSCode & MCP & GitHub Copilot.",
-    "path": "/articles/mcp-vscode-rest"
+    "path": "/articles/mcp-vscode-rest",
+    "status": null
   },
   {
     "title": "development with vscode remote tunnels",
@@ -115,7 +121,8 @@
     "series": null,
     "order": 1,
     "summary": "Use VSCode Remote Tunnels to develop on remote machines, WSL2, or Docker from anywhere.",
-    "path": "/articles/development-with-tunnels"
+    "path": "/articles/development-with-tunnels",
+    "status": null
   },
   {
     "title": "target different .net versions in test projects",
@@ -129,7 +136,8 @@
     "series": null,
     "order": 3,
     "summary": "Learn how to target and test multiple .NET versions in your test projects.",
-    "path": "/articles/multi-target"
+    "path": "/articles/multi-target",
+    "status": null
   },
   {
     "title": "simplify config updates with ansible's lineinfile",
@@ -146,7 +154,8 @@
     "series": null,
     "order": 1,
     "summary": "Automate and simplify configuration file updates using Ansible’s lineinfile module.",
-    "path": "/articles/simplify-config-updates-with-ansible-lineinfile"
+    "path": "/articles/simplify-config-updates-with-ansible-lineinfile",
+    "status": null
   },
   {
     "title": "troubleshooting sound card issues on ubuntu desktop",
@@ -162,7 +171,8 @@
     "series": null,
     "order": 5,
     "summary": "Step-by-step guide to fixing common sound card issues on Ubuntu Desktop.",
-    "path": "/articles/troubleshoot-sound-card-issues-ubuntu"
+    "path": "/articles/troubleshoot-sound-card-issues-ubuntu",
+    "status": null
   },
   {
     "title": "how to use jupyter notebooks in vscode with poetry virtual environments",
@@ -179,7 +189,8 @@
     "series": null,
     "order": 1,
     "summary": "Discover how to use Jupyter Notebooks in VSCode with Poetry-managed virtual environments.",
-    "path": "/articles/jupyter-vscode-poetry"
+    "path": "/articles/jupyter-vscode-poetry",
+    "status": null
   },
   {
     "title": "fixing apt cache update errors: gpg keys made easy!",
@@ -194,7 +205,8 @@
     "series": null,
     "order": 1,
     "summary": "Learn how to resolve APT cache update errors caused by missing or incorrect GPG keys.",
-    "path": "/articles/fixing-apt-cache-update-errors-gpg-keys"
+    "path": "/articles/fixing-apt-cache-update-errors-gpg-keys",
+    "status": null
   },
   {
     "title": "if you can’t observe it, you can’t operate it",
@@ -213,7 +225,8 @@
     },
     "order": 4,
     "summary": "Integrate OpenTelemetry with ASP.NET minimal APIs to trace and analyze application behavior.",
-    "path": "/articles/books-inventory/04-opentelemetry-tracing"
+    "path": "/articles/books-inventory/04-opentelemetry-tracing",
+    "status": null
   },
   {
     "title": "testing minimal web apis with asp.net",
@@ -233,7 +246,8 @@
     },
     "order": 1,
     "summary": "Learn how to write clean and effective integration tests for ASP.NET minimal Web APIs using practical examples.",
-    "path": "/articles/books-inventory/01-testing-minimal-web-api"
+    "path": "/articles/books-inventory/01-testing-minimal-web-api",
+    "status": null
   },
   {
     "title": "get ready for testcontainers: taking minimal web api testing to the next level",
@@ -253,7 +267,8 @@
     },
     "order": 2,
     "summary": "Upgrade your API tests by using PostgreSQL and Testcontainers for isolated, repeatable integration testing.",
-    "path": "/articles/books-inventory/02-testcontainers-postgresql"
+    "path": "/articles/books-inventory/02-testcontainers-postgresql",
+    "status": null
   },
   {
     "title": "hybridcache & redis: cache smarter, not harder for asp.net apis",
@@ -273,7 +288,8 @@
     },
     "order": 3,
     "summary": "Learn to boost ASP.NET API performance by integrating HybridCache and Redis for smarter caching.",
-    "path": "/articles/books-inventory/03-testcontainers-redis"
+    "path": "/articles/books-inventory/03-testcontainers-redis",
+    "status": null
   },
   {
     "title": "the hidden cost of caching: detecting stale reads with locust",
@@ -294,6 +310,7 @@
     },
     "order": 5,
     "summary": "Explore how stale cache data can impact your system and how to detect it with Locust.",
-    "path": "/articles/books-inventory/05-hidden-cost-of-caching"
+    "path": "/articles/books-inventory/05-hidden-cost-of-caching",
+    "status": null
   }
 ]

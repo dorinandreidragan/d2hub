@@ -12,6 +12,8 @@ tag:
 summary: "Learn how chat with your API using VSCode & MCP & GitHub Copilot."
 ---
 
+<ArticleStatusBadge />
+
 <img src="../.assets/mcp-vscode-rest/cover.png" />
 
 # vscode + mcp: chat with your api using github copilot

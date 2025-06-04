@@ -15,6 +15,7 @@
           :series="article.series ? article.series.name : ''"
           :episode="article.series && article.series.episode ? article.series.episode : null"
           :summary="article.summary"
+          :status="article.status"
         >
         </PostCard>
       </div>

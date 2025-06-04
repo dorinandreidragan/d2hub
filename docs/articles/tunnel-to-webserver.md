@@ -13,6 +13,8 @@ tag:
 summary: "Connect to a remote web server using Microsoft Dev Tunnels for secure development access."
 ---
 
+<ArticleStatusBadge />
+
 # remote tunnel to a web server
 
 This document describes how to use [Microsoft Dev tunnels][dev-tunnels] to connect to a web server

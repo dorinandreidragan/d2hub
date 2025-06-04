@@ -9,6 +9,8 @@ tag:
 summary: "Learn how to target and test multiple .NET versions in your test projects."
 ---
 
+<ArticleStatusBadge />
+
 # target different .net versions in test projects
 
 This document explains how to target different .Net versions in test projects.

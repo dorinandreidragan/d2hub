@@ -16,6 +16,8 @@ tag:
 summary: "Explore how stale cache data can impact your system and how to detect it with Locust."
 ---
 
+<ArticleStatusBadge/>
+
 <img class="cover-image" src="../../.assets/books-inventory/architecture-load-testing.svg"/>
 
 # the hidden cost of caching: detecting stale reads with Locust

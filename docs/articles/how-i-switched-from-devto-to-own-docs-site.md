@@ -11,7 +11,10 @@ tag:
   - vscode
   - githubcopilot
 summary: "How I left dev.to and built my own raw, fast, and fully custom docs site with vitepress, vue, and my own rules."
+status: draft
 ---
+
+<ArticleStatusBadge />
 
 # how i switched from dev.to to my own doc site
 

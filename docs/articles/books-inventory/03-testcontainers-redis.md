@@ -15,6 +15,8 @@ tag:
 summary: "Learn to boost ASP.NET API performance by integrating HybridCache and Redis for smarter caching."
 ---
 
+<ArticleStatusBadge />
+
 <img class="cover-image" src="../../.assets/books-inventory/architecture-caching.svg"/>
 
 # hybridCache & Redis: Cache smarter, not harder for ASP.NET APIs 🚀

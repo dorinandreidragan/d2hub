@@ -11,6 +11,8 @@ tag:
 summary: "Step-by-step guide to fixing common sound card issues on Ubuntu Desktop."
 ---
 
+<ArticleStatusBadge />
+
 # 🎧 troubleshooting sound card issues on ubuntu desktop
 
 Hey everyone,

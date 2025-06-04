@@ -15,6 +15,8 @@ tag:
 summary: "Learn how to write clean and effective integration tests for ASP.NET minimal Web APIs using practical examples."
 ---
 
+<ArticleStatusBadge />
+
 <img class="cover-image" src="../../.assets/books-inventory/testing-minimal-webapi-cover.png"/>
 
 # testing minimal web apis with asp.net
