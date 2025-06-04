@@ -13,6 +13,8 @@ tag:
 summary: "How I switched from dev.to and built my own raw, fast, and fully custom docs site with vitepress, vue, and my own rules."
 ---
 
+![cover]
+
 <ArticleStatusBadge />
 
 # how i switched from dev.to to my own doc site
@@ -245,3 +247,4 @@ there is no reason not to have your own docs site. You own it. You control it. Y
 [dev.to]: https://dev.to
 [post card]: ../.assets/devto-to-own-docs/post-card.png
 [blog index]: ../.assets/devto-to-own-docs/blog-index.png
+[cover]: ../.assets/devto-to-own-docs/cover.svg
