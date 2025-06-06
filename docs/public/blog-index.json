@@ -71,6 +71,23 @@
     "status": null
   },
   {
+    "title": "host documentation on github pages with vuepress",
+    "date": "2024-02-04",
+    "category": [
+      "documentation"
+    ],
+    "tag": [
+      "documentation",
+      "vuepress",
+      "github-pages"
+    ],
+    "series": null,
+    "order": 4,
+    "summary": "Host your documentation on GitHub Pages using VuePress for a simple, effective workflow.",
+    "path": "/articles/vuepress-on-ghpages",
+    "status": "draft"
+  },
+  {
     "title": "vscode + mcp: chat with your api using github copilot",
     "date": "2025-04-15",
     "category": [
@@ -174,6 +191,23 @@
     "summary": "Discover how to use Jupyter Notebooks in VSCode with Poetry-managed virtual environments.",
     "path": "/articles/jupyter-vscode-poetry",
     "status": null
+  },
+  {
+    "title": "how to generate a beautiful pdf from markdown with eisvogel",
+    "date": "2025-06-06",
+    "category": null,
+    "tag": [
+      "pdf",
+      "markdown",
+      "pandoc",
+      "eisvogel",
+      "automation"
+    ],
+    "series": null,
+    "order": null,
+    "summary": "Instantly create beautiful PDFs from markdown using Eisvogel and Docker—no setup, just results.",
+    "path": "/articles/md-to-pdf-with-eisvogel",
+    "status": "draft"
   },
   {
     "title": "fixing apt cache update errors: gpg keys made easy!",
