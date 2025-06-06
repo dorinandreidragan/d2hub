@@ -9,7 +9,7 @@ keywords: [CV, Software, Engineering]
 
 **principal engineer**
 
-[Download PDF version][pdf] | [Blog][blog] | [LinkedIn][linkedin] | [GitHub][github]
+[Blog][blog] | [LinkedIn][linkedin] | [GitHub][github]
 
 ## professional summary
 
@@ -100,4 +100,3 @@ Built a rule-driven engine for mortgage screening and credit scoring. Integrated
 [blog]: https://dorinandreidragan.github.io
 [linkedin]: https://www.linkedin.com/in/dorin-andrei-dragan-17b4667/
 [github]: https://github.com/dorinandreidragan
-[pdf]: /dorin-andrei-dragan-cv.pdf
