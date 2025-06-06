@@ -2,7 +2,6 @@
 title: turn markdown into stunning pdf with eisvogel and zero hassle
 date: 2025-06-06
 author: dorin andrei drăgan
-status: draft
 tag: [pdf, markdown, pandoc, eisvogel, automation]
 summary: Instantly create beautiful PDFs from markdown using Eisvogel and Docker, no setup, just results.
 ---
