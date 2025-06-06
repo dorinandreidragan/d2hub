@@ -6,6 +6,8 @@ tag: [pdf, markdown, pandoc, eisvogel, automation]
 summary: Instantly create beautiful PDFs from markdown using Eisvogel and Docker, no setup, just results.
 ---
 
+<ArticleStatusBadge />
+
 # turn markdown into stunning pdf with eisvogel and zero hassle
 
 ## skip the setup, get the style
