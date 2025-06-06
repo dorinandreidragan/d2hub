@@ -1,13 +1,13 @@
 ---
-title: how to generate a beautiful pdf from markdown with eisvogel
+title: turn markdown into stunning pdf with eisvogel and zero hassle
 date: 2025-06-06
 author: dorin andrei drăgan
 status: draft
 tag: [pdf, markdown, pandoc, eisvogel, automation]
-summary: Instantly create beautiful PDFs from markdown using Eisvogel and Docker—no setup, just results.
+summary: Instantly create beautiful PDFs from markdown using Eisvogel and Docker, no setup, just results.
 ---
 
-# how to generate a beautiful pdf from markdown with eisvogel
+# turn markdown into stunning pdf with eisvogel and zero hassle
 
 ## skip the setup, get the style
 
@@ -93,8 +93,8 @@ Here’s how the exported PDF looks using Eisvogel and the sample markdown above
 
 [Download the sample PDF](/public/md-to-pdf/sample-eisvogel.pdf)
 
-The styling, page breaks, and layout are all handled for you. What you see is what you get—no manual tweaks, no surprises.
+The styling, page breaks, and layout are all handled for you. What you see is what you get.
 
 ## automate, impress, repeat
 
-Every export is a statement. Add a Makefile, a script, or a CI job. Never ship ugly again. Share the PDF. Let your work speak before you do. No more excuses. Just beautiful, styled documents—every time.
+Every export is a statement. Add a Makefile, a script, or a CI job. Never ship ugly again. Share the PDF. Let your work speak before you do. Beautiful, styled documents, every time.

@@ -193,7 +193,7 @@
     "status": null
   },
   {
-    "title": "how to generate a beautiful pdf from markdown with eisvogel",
+    "title": "turn markdown into stunning pdf with eisvogel and zero hassle",
     "date": "2025-06-06",
     "category": null,
     "tag": [
@@ -205,7 +205,7 @@
     ],
     "series": null,
     "order": null,
-    "summary": "Instantly create beautiful PDFs from markdown using Eisvogel and Docker—no setup, just results.",
+    "summary": "Instantly create beautiful PDFs from markdown using Eisvogel and Docker, no setup, just results.",
     "path": "/articles/md-to-pdf-with-eisvogel",
     "status": "draft"
   },
