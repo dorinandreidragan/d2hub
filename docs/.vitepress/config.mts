@@ -54,6 +54,7 @@ defineConfig({
     nav: [
       { text: 'home', link: '/' },
       { text: 'about', link: '/about' },
+      { text: 'cv', link: '/cv' },
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/dorinandreidragan' },
