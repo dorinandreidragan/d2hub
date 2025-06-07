@@ -92,7 +92,7 @@ Here’s how the exported PDF looks using Eisvogel and the sample markdown above
 
 ![Sample Eisvogel PDF preview](../.assets/md-to-pdf/md-to-pdf.gif)
 
-[Download the sample PDF](/public/md-to-pdf/sample-eisvogel.pdf)
+[Download the sample PDF](/md-to-pdf/sample-eisvogel.pdf)
 
 The styling, page breaks, and layout are all handled for you. What you see is what you get.
 
