@@ -12,7 +12,7 @@ summary: Instantly create beautiful PDFs from markdown using Eisvogel and Docker
 
 ## skip the setup, get the style
 
-Don’t waste time wrangling LaTeX or chasing down Pandoc dependencies. You want a beautiful PDF, not a weekend lost to package errors. Use the official Docker image. No installs. No drama. Just results. Full instructions and advanced options? [Check the Eisvogel repo.](https://github.com/enhuiz/eisvogel)
+Don’t waste time wrangling LaTeX or chasing down Pandoc dependencies. You want a beautiful PDF, not a weekend lost to package errors. Use the official Docker image. No installs. No drama. Just results. Full instructions and advanced options? [Check the Eisvogel repo.](https://github.com/Wandmalfarbe/pandoc-latex-template)
 
 ## docker does the heavy lifting
 
@@ -82,7 +82,7 @@ hello("world")
 
 ## more resources
 
-- [Eisvogel on GitHub](https://github.com/enhuiz/eisvogel)
+- [Eisvogel on GitHub](https://github.com/Wandmalfarbe/pandoc-latex-template)
 - [Pandoc](https://pandoc.org)
 ````
 
