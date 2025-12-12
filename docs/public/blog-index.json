@@ -71,6 +71,23 @@
     "status": null
   },
   {
+    "title": "host documentation on github pages with vuepress",
+    "date": "2024-02-04",
+    "category": [
+      "documentation"
+    ],
+    "tag": [
+      "documentation",
+      "vuepress",
+      "github-pages"
+    ],
+    "series": null,
+    "order": 4,
+    "summary": "Host your documentation on GitHub Pages using VuePress for a simple, effective workflow.",
+    "path": "/articles/vuepress-on-ghpages",
+    "status": "draft"
+  },
+  {
     "title": "vscode + mcp: chat with your api using github copilot",
     "date": "2025-04-15",
     "category": [
@@ -120,6 +137,20 @@
     "order": 3,
     "summary": "Learn how to target and test multiple .NET versions in your test projects.",
     "path": "/articles/multi-target",
+    "status": null
+  },
+  {
+    "title": "yoda conditions in powershell",
+    "date": "2025-11-14",
+    "category": "scripting",
+    "tag": [
+      "scripts",
+      "pwsh"
+    ],
+    "series": null,
+    "order": null,
+    "summary": "why `$null -eq $Date` beats `$Date -eq $null` when consistency matters.",
+    "path": "/articles/yoda-condition-null-date",
     "status": null
   },
   {
