@@ -151,7 +151,7 @@
     "order": null,
     "summary": "why `$null -eq $Date` beats `$Date -eq $null` when consistency matters.",
     "path": "/articles/yoda-condition-null-date",
-    "status": "draft"
+    "status": null
   },
   {
     "title": "simplify config updates with ansible's lineinfile",
