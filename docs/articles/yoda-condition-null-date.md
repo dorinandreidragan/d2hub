@@ -43,4 +43,4 @@ This is called a **Yoda condition**—like Yoda’s speech pattern, the order is
 > ⚠️ Don’t overuse it. For most comparisons, natural order is fine. Use Yoda conditions where null checks are critical.
 
 ## takeaway
-Yoda conditions aren’t about style points. They’re about **predictable behavior**. In PowerShell, `$null -eq $Date` is the safer bet when consistency matters. 🚀
+Yoda conditions aren’t about style points. They’re about **predictable behavior**. In PowerShell, `$null -eq $Date` is safer when consistency matters. 🚀
