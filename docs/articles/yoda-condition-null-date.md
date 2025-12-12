@@ -6,7 +6,6 @@ tag:
   - scripts
   - pwsh
 summary: why `$null -eq $Date` beats `$Date -eq $null` when consistency matters.
-status: draft
 ---
 
 <ArticleStatusBadge />
