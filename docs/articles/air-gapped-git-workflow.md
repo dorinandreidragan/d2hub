@@ -10,7 +10,7 @@ cover: /images/airgap-cover.png
 
 <ArticleStatusBadge />
 
-<img class="cover-image" src="../../.assets/air-gapped-git-workflow/cover-01.png"/>
+<img class="cover-image" src="../.assets/air-gapped-git-workflow/cover-01.png"/>
 
 # air gapped git workflow
 
